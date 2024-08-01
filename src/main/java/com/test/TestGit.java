@@ -1,9 +1,8 @@
 package com.test;
 /**
- * @author£ºëøÅô·É 
  * @version: 1.0
- * @Created on: 2019Äê1ÔÂ21ÈÕ ÏÂÎç7:20:23
- * ÀàËµÃ÷
+ * @Created on: 2019ï¿½ï¿½1ï¿½ï¿½21ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½7:20:23
+ * ï¿½ï¿½Ëµï¿½ï¿½
  */
 public class TestGit {
 
@@ -11,5 +10,11 @@ public class TestGit {
 		System.out.println("Test1...");
 		System.out.println("Test2...");
 		System.out.println("hot_fix...");
+
+
+	}
+
+	public void test(){
+		System.out.println("ç¬¬ä¸‰æ¬¡ä»£ç æäº¤");
 	}
 }
