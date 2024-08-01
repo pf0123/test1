@@ -14,5 +14,7 @@ public class sixTest2 {
         System.out.println("第六次临时提交");
         System.out.println("第六次临时提交");
         System.out.println("第六次临时提交");
+        System.out.println("第七次临时提交");
+        System.out.println("第七次临时提交");
     }
 }
